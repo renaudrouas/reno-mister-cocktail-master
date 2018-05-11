@@ -10,14 +10,15 @@
   position: relative;
   justify-content: space-around;
   align-items: center;
-  background-color: white;
+  background: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url('http://wallpapersdsc.net/wp-content/uploads/2016/09/Cocktail.jpg');
+  margin: 20px;
 }
 
 .cocktail_name {
+  color : white
 
 }
 .new_cocktail {
   display: inline-block;
   margin: 30px;
 }
-
