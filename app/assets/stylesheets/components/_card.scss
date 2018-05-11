@@ -1,0 +1,23 @@
+.card {
+  height: 175px;
+  width: 200px;
+  display: flex;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  background-color: red;
+  background-size: cover !important;
+  background-position: center;
+  color: white;
+  position: relative;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+}
+
+.cocktail_name {
+
+}
+.new_cocktail {
+  display: inline-block;
+  margin: 30px;
+}
+
